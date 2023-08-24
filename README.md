@@ -10,23 +10,23 @@ I am a MEDAC student, majoring in Multiplatform and Web Application development.
 
 - 🌱 Currently learning: Unity
 - 📫 How to reach me: marta.albarracinm7@gmail.com
-
+<!--
 ## Projects
 
 ### Project 1: [Project Name]
 
-### Brief description of the project, its purpose, and the technologies used. You can also include a screenshot or GIF of the project.
+Brief description of the project, its purpose, and the technologies used. You can also include a screenshot or GIF of the project.
 
 ### GitHub Repository: [Link to Repository]
 ### Live Demo: [Link to Live Demo]
 
-### Project 2: [Project Name]
+Project 2: [Project Name]
 
 ### Brief description of the project, its purpose, and the technologies used. You can also include a screenshot or GIF of the project.
 
-### GitHub Repository: [Link to Repository]
-### Live Demo: [Link to Live Demo]
-
+GitHub Repository: [Link to Repository]
+Live Demo: [Link to Live Demo]
+-->
 ## Skills
 
 - **Programming Languages:**
