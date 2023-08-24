@@ -72,7 +72,7 @@ I'm passionate about expanding my skills in the field of cybersecurity. Currentl
 
 - 🕵️ **Hack The Box Profile:**
   Connect with me on Hack The Box, where I love to tackle challenges and improve my skills.
-  - **Hack The Box Profile:** [707sven](https://www.hackthebox.com/profile/707sven)
+  - **Hack The Box Profile:** [707sven](https://app.hackthebox.com/users/1350770)
 
 Feel free to connect with me if you're also interested in the exciting world of cybersecurity or if you have any recommendations for courses or resources!
 
