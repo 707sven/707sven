@@ -30,28 +30,28 @@ I am a MEDAC student, majoring in Multiplatform and Web Application development.
 ## Skills
 
 - **Programming Languages:**
-  - ![Java](https://img.icons8.com/?size=512&id=2572&format=png/java-icon.png) Java
-  - ![JavaScript](https://img.icons8.com/?size=512&id=39853&format=png/javascript-icon.png) JavaScript
-  - ![Python](https://img.icons8.com/?size=512&id=12584&format=png/python-icon.png) Python
-  - ![PHP](https://img.icons8.com/?size=512&id=3753&format=png/php-icon.png) PHP
+  - ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png) Java
+  - ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png) JavaScript
+  - ![Python](https://img.icons8.com/color/48/python--v1.png) Python
+  - ![PHP](https://img.icons8.com/parakeet/25/php.png) PHP
 
 - **Web Development:**
-  - ![HTML5](https://img.icons8.com/?size=512&id=23027&format=png/html5-icon.png) HTML5
-  - ![CSS3](https://img.icons8.com/?size=512&id=38273&format=png/css3-icon.png) CSS3
+  - ![HTML5](https://img.icons8.com/color/48/html-5--v1.png) HTML5
+  - ![CSS3](https://img.icons8.com/color/48/css3.png) CSS3
 
 - **Mobile App Development:**
-  - ![Android](https://img.icons8.com/?size=512&id=2586&format=png/android-icon.png) Android
+  - ![Android](https://img.icons8.com/color/48/android-os.png) Android
 
 - **Database:**
-  - ![MySQL](https://img.icons8.com/?size=512&id=39858&format=png/mysql-icon.png) MySQL
-  - ![Oracle](https://img.icons8.com/?size=512&id=36681&format=png/oracle-icon.png) Oracle
+  - ![MySQL](https://img.icons8.com/color/48/mysql-logo.png) MySQL
+  - ![Oracle](https://img.icons8.com/color/48/oracle-logo.png) Oracle
 
 - **Devops:**
-  - ![Bash](https://img.icons8.com/?size=512&id=120449&format=png/bash-icon.png) Bash
-  - ![Google Cloud Platform](https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png/gcp-icon.png) GCP
+  - ![Bash](https://img.icons8.com/color/48/bash.png) Bash
+  - ![Google Cloud Platform](https://img.icons8.com/color/48/google-cloud.png) GCP
 
 - **Other:**
-  - ![Linux](https://img.icons8.com/?size=512&id=38796&format=png/linux-icon.png) Linux
+  - ![Linux](https://img.icons8.com/color/48/linux--v1.png) Linux
 
 - **Version Control:**
   - ![Git](https://img.icons8.com/color/25/git.png) Git
