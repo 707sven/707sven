@@ -1,10 +1,6 @@
 # Student Portfolio: Multiplatform and Web App Developer
 
-<<<<<<< HEAD
 <!--![Profile Banner](link_to_banner_image)-->
-
-=======
->>>>>>> 2250313968fed0858cc3c5b4f1e33b402a597a8e
 Hello there! 👋 Welcome to my GitHub repository. I'm Marta Albarracín, a passionate and dedicated student specializing in Multiplatform and Web Applications from Spain. This is my space to showcase some of the exciting projects I've been working on during my journey as a student developer.
 
 ## About Me
