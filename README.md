@@ -30,10 +30,10 @@ Live Demo: [Link to Live Demo]
 
 | Programming Languages | Web Development | Mobile App Development | Database       | Devops              | Other          | Version Control  |
 |-----------------------|-----------------|------------------------|----------------|---------------------|----------------|------------------|
-| ![Java](https://img.icons8.com/color/24/java-coffee-cup-logo--v1.png)Java   | ![HTML5](https://img.icons8.com/color/24/html-5--v1.png)HTML5 | ![Android](https://img.icons8.com/color/24/android-os.png)Android | ![MySQL](https://img.icons8.com/color/24/mysql-logo.png)MySQL | ![Bash](https://img.icons8.com/color/24/bash.png)Bash | ![Linux](https://img.icons8.com/color/24/linux--v1.png)Linux | ![Git](https://img.icons8.com/color/24/git.png)Git |
-| ![JavaScript](https://img.icons8.com/color/24/javascript--v1.png)JavaScript | ![CSS3](https://img.icons8.com/color/24/css3.png)CSS3 |                    | ![Oracle](https://img.icons8.com/color/24/oracle-logo.png)Oracle | ![GCP](https://img.icons8.com/color/24/google-cloud.png)GCP  |                | ![GitHub](https://img.icons8.com/material-outlined/24/github.png)GitHub |
+| ![Java](https://img.icons8.com/color/24/java-coffee-cup-logo--v1.png) Java   | ![HTML5](https://img.icons8.com/color/24/html-5--v1.png) HTML5 | ![Android](https://img.icons8.com/color/24/android-os.png) Android | ![MySQL](https://img.icons8.com/color/24/mysql-logo.png) MySQL | ![Bash](https://img.icons8.com/color/24/bash.png) Bash | ![Linux](https://img.icons8.com/color/24/linux--v1.png) Linux | ![Git](https://img.icons8.com/color/24/git.png) Git |
+| ![JavaScript](https://img.icons8.com/color/24/javascript--v1.png) JavaScript | ![CSS3](https://img.icons8.com/color/24/css3.png) CSS3 |                    | ![Oracle](https://img.icons8.com/color/24/oracle-logo.png) Oracle | ![GCP](https://img.icons8.com/color/24/google-cloud.png) GCP  |                | ![GitHub](https://img.icons8.com/material-outlined/24/github.png) GitHub |
 | ![Python](https://img.icons8.com/color/24/python--v1.png)Python  |                 |                    |                |                     |                |                  |
-| ![PHP](https://img.icons8.com/parakeet/24/php.png)PHP     |                 |                    |                |                     |                |                  |
+| ![PHP](https://img.icons8.com/parakeet/24/php.png) PHP     |                 |                    |                |                     |                |                  |
 
 
 - **Programming Languages:**
