@@ -40,8 +40,8 @@ Live Demo: [Link to Live Demo]
 I'm passionate about expanding my skills in the field of cybersecurity. Currently, I'm actively pursuing courses and training to enhance my knowledge and expertise. Here's what I'm working on:
 
 - 🛡️ **Cybersecurity Courses:**
-  - Completed "Customizing the Linux Environment" on![Hack4U](https://hack4u.io/cursos/personalizacion-de-entorno-en-linux/) Hack4U
-  - Currently enrolled in "Introduction to Linux" on ![Hack4U](https://hack4u.io/cursos/introduccion-a-linux/) Hack4U
+  - Completed "Customizing the Linux Environment" on![Hack4U](https://hack4u.io/cursos/personalizacion-de-entorno-en-linux/)
+  - Currently enrolled in "Introduction to Linux" on ![Hack4U](https://hack4u.io/cursos/introduccion-a-linux/)
 
 - 🔒 **Areas of Focus:**
   - Network Security
