@@ -54,8 +54,8 @@ I am a MEDAC student, majoring in Multiplatform and Web Application development.
   - ![Linux](https://img.icons8.com/?size=512&id=38796&format=png/linux-icon.png) Linux
 
 - **Version Control:**
-  - ![Git](https://img.icons8.com/?size=512&id=16335&format=png/git-icon.png) Git
-  - ![GitHub](https://img.icons8.com/ios/50/github--v1.png) GitHub
+  - ![Git](https://img.icons8.com/material/25/git.png) Git
+  - ![GitHub](https://img.icons8.com/sf-ultralight-filled/25/github.png) GitHub
 
 ## Cybersecurity Enthusiast
 
