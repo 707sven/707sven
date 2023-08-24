@@ -30,32 +30,32 @@ I am a MEDAC student, majoring in Multiplatform and Web Application development.
 ## Skills
 
 - **Programming Languages:**
-  - ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png) Java
-  - ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png) JavaScript
-  - ![Python](https://img.icons8.com/color/48/python--v1.png) Python
-  - ![PHP](https://img.icons8.com/parakeet/25/php.png) PHP
+  - ![Java](https://img.icons8.com/color/24/java-coffee-cup-logo--v1.png) Java
+  - ![JavaScript](https://img.icons8.com/color/24/javascript--v1.png) JavaScript
+  - ![Python](https://img.icons8.com/color/24/python--v1.png) Python
+  - ![PHP](https://img.icons8.com/parakeet/24/php.png) PHP
 
 - **Web Development:**
-  - ![HTML5](https://img.icons8.com/color/48/html-5--v1.png) HTML5
-  - ![CSS3](https://img.icons8.com/color/48/css3.png) CSS3
+  - ![HTML5](https://img.icons8.com/color/24/html-5--v1.png) HTML5
+  - ![CSS3](https://img.icons8.com/color/24/css3.png) CSS3
 
 - **Mobile App Development:**
-  - ![Android](https://img.icons8.com/color/48/android-os.png) Android
+  - ![Android](https://img.icons8.com/color/24/android-os.png) Android
 
 - **Database:**
-  - ![MySQL](https://img.icons8.com/color/48/mysql-logo.png) MySQL
-  - ![Oracle](https://img.icons8.com/color/48/oracle-logo.png) Oracle
+  - ![MySQL](https://img.icons8.com/color/24/mysql-logo.png) MySQL
+  - ![Oracle](https://img.icons8.com/color/24/oracle-logo.png) Oracle
 
 - **Devops:**
-  - ![Bash](https://img.icons8.com/color/48/bash.png) Bash
-  - ![Google Cloud Platform](https://img.icons8.com/color/48/google-cloud.png) GCP
+  - ![Bash](https://img.icons8.com/color/24/bash.png) Bash
+  - ![Google Cloud Platform](https://img.icons8.com/color/24/google-cloud.png) GCP
 
 - **Other:**
-  - ![Linux](https://img.icons8.com/color/48/linux--v1.png) Linux
+  - ![Linux](https://img.icons8.com/color/24/linux--v1.png) Linux
 
 - **Version Control:**
-  - ![Git](https://img.icons8.com/color/25/git.png) Git
-  - ![GitHub](https://img.icons8.com/material-outlined/25/github.png) GitHub
+  - ![Git](https://img.icons8.com/color/24/git.png) Git
+  - ![GitHub](https://img.icons8.com/material-outlined/24/github.png) GitHub
 
 ## Cybersecurity Enthusiast
 
