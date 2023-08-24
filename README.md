@@ -1,6 +1,6 @@
 # Student Portfolio: Multiplatform and Web App Developer
 
-![Profile Banner](link_to_banner_image)
+<!--![Profile Banner](link_to_banner_image)-->
 
 Hello there! 👋 Welcome to my GitHub repository. I'm Marta Albarracín, a passionate and dedicated student specializing in Multiplatform and Web Applications from Spain. This is my space to showcase some of the exciting projects I've been working on during my journey as a student developer.
 
@@ -62,8 +62,8 @@ Live Demo: [Link to Live Demo]
 I'm passionate about expanding my skills in the field of cybersecurity. Currently, I'm actively pursuing courses and training to enhance my knowledge and expertise. Here's what I'm working on:
 
 - 🛡️ **Cybersecurity Courses:**
-  - Completed "Customizing the Linux Environment" on Hack4U
-  - Currently enrolled in "Introduction to Linux" on Hack4U
+  - Completed "Customizing the Linux Environment" on![Hack4U](https://hack4u.io/cursos/personalizacion-de-entorno-en-linux/) Hack4U
+  - Currently enrolled in "Introduction to Linux" on ![Hack4U](https://hack4u.io/cursos/introduccion-a-linux/) Hack4U
 
 - 🔒 **Areas of Focus:**
   - Network Security
