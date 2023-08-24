@@ -35,35 +35,6 @@ Live Demo: [Link to Live Demo]
 | ![Python](https://img.icons8.com/color/24/python--v1.png)Python  |                 |                    |                |                     |                |                  |
 | ![PHP](https://img.icons8.com/parakeet/24/php.png) PHP     |                 |                    |                |                     |                |                  |
 
-
-- **Programming Languages:**
-  - ![Java](https://img.icons8.com/color/24/java-coffee-cup-logo--v1.png) Java
-  - ![JavaScript](https://img.icons8.com/color/24/javascript--v1.png) JavaScript
-  - ![Python](https://img.icons8.com/color/24/python--v1.png) Python
-  - ![PHP](https://img.icons8.com/parakeet/24/php.png) PHP
-
-- **Web Development:**
-  - ![HTML5](https://img.icons8.com/color/24/html-5--v1.png) HTML5
-  - ![CSS3](https://img.icons8.com/color/24/css3.png) CSS3
-
-- **Mobile App Development:**
-  - ![Android](https://img.icons8.com/color/24/android-os.png) Android
-
-- **Database:**
-  - ![MySQL](https://img.icons8.com/color/24/mysql-logo.png) MySQL
-  - ![Oracle](https://img.icons8.com/color/24/oracle-logo.png) Oracle
-
-- **Devops:**
-  - ![Bash](https://img.icons8.com/color/24/bash.png) Bash
-  - ![Google Cloud Platform](https://img.icons8.com/color/24/google-cloud.png) GCP
-
-- **Other:**
-  - ![Linux](https://img.icons8.com/color/24/linux--v1.png) Linux
-
-- **Version Control:**
-  - ![Git](https://img.icons8.com/color/24/git.png) Git
-  - ![GitHub](https://img.icons8.com/material-outlined/24/github.png) GitHub
-
 ## Cybersecurity Enthusiast
 
 I'm passionate about expanding my skills in the field of cybersecurity. Currently, I'm actively pursuing courses and training to enhance my knowledge and expertise. Here's what I'm working on:
