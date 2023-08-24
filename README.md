@@ -70,6 +70,10 @@ I'm passionate about expanding my skills in the field of cybersecurity. Currentl
   - Ethical Hacking
   - Security Protocols
 
+- 🕵️ **Hack The Box Profile:**
+  Connect with me on Hack The Box, where I love to tackle challenges and improve my skills.
+  - **Hack The Box Profile:** [707sven](https://www.hackthebox.com/profile/707sven)
+
 Feel free to connect with me if you're also interested in the exciting world of cybersecurity or if you have any recommendations for courses or resources!
 
 ## Get in Touch
